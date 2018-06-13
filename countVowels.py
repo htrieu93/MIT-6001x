@@ -1,8 +1,9 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Jun 13 22:50:30 2018
+Week 1 Problem Set - Problem 1 
+Assume s is a string of lower case characters.
 
-@author: Hieu Trieu
+Write a program that counts up the number of vowels contained in the string s. 
+Valid vowels are: 'a', 'e', 'i', 'o', and 'u'. For example, if s = 'azcbobobegghakl', your program should print:
 """
 
 count = 0
