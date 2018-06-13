@@ -1,4 +1,4 @@
-# Hangman game
+# Week 3 Problem Set - Hangman game
 #
 
 # -----------------------------------
