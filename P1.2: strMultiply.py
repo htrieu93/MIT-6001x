@@ -2,8 +2,7 @@
 Week 1 Problem Set - Problem 2
 Assume s is a string of lower case characters.
 
-Write a program that prints the number of times the string 'bob' occurs in s. 
-For example, if s = 'azcbobobegghakl', then your program should print
+Write a program that prints the number of times the string 'bob' occurs in s. For example, if s = 'azcbobobegghakl', then your program should print
 """
 
 count = 0 
